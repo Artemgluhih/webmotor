@@ -54,7 +54,7 @@
               <input type="name" name="firstname" placeholder="Имя" class="inputform">
               <input type="email" name="email" placeholder="Email" class="inputform">
               <input type="password" name="password" placeholder="Пароль" class="inputform">
-              <button type="submit" class="btn_info1">Кнопка действия</button>
+              <button type="submit" class="btn_form">Кнопка действия</button>
             </form>
           
           </div>
