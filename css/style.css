@@ -98,6 +98,14 @@ main {
 		color: #fff;
 	}
 
+	.btn_form {
+		width: 674px;
+		height: 50px;
+		background-color: #1a56ff;
+		color: #fff;
+		border-radius: 5px;
+	}
+
 	.text p {
 		margin-bottom: 22px;
 	}
@@ -221,6 +229,14 @@ main {
 		height: 50px;
 		background-color: #1a56ff;
 		color: #fff;
+	}
+
+	.btn_form {
+		width: 674px;
+		height: 50px;
+		background-color: #1a56ff;
+		color: #fff;
+		border-radius: 5px;
 	}
 
 	.text p {
